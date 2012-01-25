@@ -21,3 +21,4 @@ hi LineNr          guifg=#AAAAAA guibg=#1B1D1E
 highlight NonText    guifg=#444444 guibg=#1a1c1d
 highlight SpecialKey guifg=#444444 guibg=#1a1c1d
 hi link htmlLink NONE
+highlight OverLength ctermbg=red ctermfg=white guibg=#333333
